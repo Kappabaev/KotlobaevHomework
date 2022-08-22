@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "raleway", sans-serif;
+    list-style-type: none;
+}
+.why{
+    margin: auto;
+    margin-top: 200px;
+    margin-bottom: 40px;
+    }
+.whyt{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 42px;
+    align-items: center;
+    text-align: center;
+    padding: 50px;
+    
+    
+    color: #000000;
+    }
+hr{
+    margin-left: auto;
+    margin-right: auto;    
+    width: 170px;
+    height: 0px;
+    left: 671px;
+    top: 2003px;
+    
+    border: 1px solid #EC7979;
+    margin-bottom: 40px;
+    }
+    
+.lorem{
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 21px;
+        align-items: center;
+        text-align: center; 
+        color: #86878B;
+        margin-bottom: 71px; 
+    }
+.wrapper{
+    max-width: 1170px;
+    padding: 0 15px;
+    margin: 0 auto;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+}
+
+
+.title{
+    font-size: 34px;
+    color: coral;
+    text-align: center;
+}
+.pricing-list__item{
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+text-transform: capitalize;
+color: #86878B;
+background: #FFFFFF;
+border: 2px solid #F5F5F5;
+padding: 15px 0;
+}
+.pricing-cart{
+    width: 370px;
+    display: inline-block;
+}
+
+
+.pricing-list__item--beg{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+    color: #FFFFFF;
+    background: #333333;
+
+}
+
+.pricing-list__item--pri{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    color: #FFFFFF;
+    background: #333333;
+}
+
+.pricing-list__item--text{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+    background: #333333;
+}
+
+.cart{
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+}
+.cart__discription{
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.cart__img{
+   width: 92px;
+   height: 92px;
+   border: 1px solid #EC7979;
+   border-radius: 50%;
+   padding: 8px;
+   margin: 0 auto; 
+   margin-bottom: 50px;
+   
+}
+.cart__title{
+    margin-bottom: 50px;
+}
+
+.uber{
+    background: #F5F5F5; 
+}
+
+
+
+
+
+
